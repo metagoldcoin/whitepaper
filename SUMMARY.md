@@ -21,5 +21,6 @@
 ## Legals
 
 * [Privacy Policy](legals/privacy-policy.md)
+* [Tokonomics](legals/tokonomics.md)
 * [Terms & Conditions](legals/terms-and-conditions.md)
 * [Consent](legals/consent.md)
