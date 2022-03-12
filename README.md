@@ -9,6 +9,10 @@ coverY: 0
 
 # Meta Gold Coin
 
+#### World's First 99% Public Ownership, Transparent $MGC
+
+All of the (100%) MGC will be deluted in the ICO, Public Sales, Staking Rewards & Marketing Purpose. So the whole supply will be only available within community & for the community.
+
 ## $MGC
 
 $MGC is the default & only currency that will be used in Meta Gold Coin's Play 2 Earn virtual Universe with elements of Land & 3D NFT that can be earned, mined & submitted from open source 3D studio.&#x20;
