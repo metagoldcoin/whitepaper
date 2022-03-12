@@ -9,5 +9,3 @@ description: >-
 Our main reason to create Meta Gold Coin project is the current DApps that are available in the metaverse that only accessible through or with their own utility tokens with no reliable bridge between them.
 
 "Ready Player One" by Ernest Cline is our main inspiration that will drive the tokonomics without no central authority in the VU.
-
-{% embed url="https://2w3pnm4iy73.typeform.com/to/P228Ngvj" %}
