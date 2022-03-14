@@ -9,4 +9,10 @@ coverY: 0
 
 # Team
 
-Meta Gold Coin team have more than 30 experts in business, DApp Developement, (video and Art) game development, design, marketing, community building and support. Our team is all gaming & tech fans at our heart and for the founders, building the virtual universe of Meta Gold Coin has been a major milestone. Our gameuniverse, game economics and rich charater style of each world took in many years in the making and truly will set us apart from our peers in the metaverse space.
+### **Meet Our Key Team**
+
+&#x20;**** Our team is a great combination of strategy and Technology. Our founders have personal and professional experience in Metaverse, NFTs, and the virtual universe (VE). We also have a complete squad of the professional R\&D team, 10+ software developers, and project managers as well.
+
+### **Advisors**
+
+Our advisory team brings experience in innovation management, entrepreneurship, and a broad network within the virtual universe and Gaming Industry.

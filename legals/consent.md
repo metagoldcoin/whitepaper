@@ -1,3 +1,10 @@
+---
+description: >-
+  Potential buyers of MGC tokens should carefully consider and evaluate the
+  uncertainties associated with the token or its related parts. All information
+  contained in the white paper and token sale is a
+---
+
 # Consent
 
 It is important to understand that you are utilizing the site, app, or smart contracts at your own risk. There may be errors in these products which could cause damage and hurt either yourself or someone else who uses them! We cannot guarantee their safety but they will try our best so please think carefully before using them – There no one or a program is perfect in the real world.

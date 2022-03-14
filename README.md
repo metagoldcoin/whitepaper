@@ -13,30 +13,24 @@ coverY: 0
 
 All of the (100%) MGC will be deluted in the ICO, Public Sales, Staking Rewards & Marketing Purpose. So the whole supply will be only available within community & for the community.
 
-## $MGC
+## Introduction
 
-$MGC is the default & only currency that will be used in Meta Gold Coin's Play 2 Earn virtual Universe with elements of Land & 3D NFT that can be earned, mined & submitted from open source 3D studio.&#x20;
+At MGC, we shared with people how the virtual universe was born. We will tell you how virtual reality is changing the world. That's why we worked on the right technology to enable us to be the best in the market. We’re with a fully updatable virtual world (VE).
 
-* All new Universe with multiple worlds
-* Community driven World order
-* Custom character that can be only used once for a player
+### Vision
 
-Meta Gold Coin reward whoever contributes to the worlds of our universe and $MGC economy governance that keeps the multiple way to invest in the universe open and for all.
+We live in a wonderful world that is getting faster. Thanks to advanced and innovative technology, we can say that we are not limited to resources. Now our imagination is much larger than the world we live in. We can imagine a world where you can do anything.
 
-### In Game Economics
+"Think About A World Where Anything Is Possible"
 
-As mentioned there will be multiple ways to allow players, investors & community to Earn and succeed in Meta Gold Coin universe with valuable $MGC and innovative art of 3D NFTs also will be tradable in our Worlds and our futuratic marketplace that will be available in the future.
+### **Mission**
 
-### NFTs, Tokens & Worlds
+We are on a mission to realize the crazy secret, ideas to experience the greatest desires of our lives. Creators can share anything with anyone in the world. We help you explore the infinite possibilities of the world, including work, creation, trading, and discovery.
 
-Meta Gold Coin Virtual Universe is fueled by $MGC, powered by efficient & fast Binance Smart Chain (BSC) act as utility currency of our universe.
+### **Evolution of Metaverse and Blockchain**
 
-There will be 3 worlds in the making as of now with their own & respective unique Art
+The uses of blockchain offer other dimensions to the metaverse-
 
-* "Goold Hope" - A blend of VIntage world with Stone Age rules & nature art NFTs.
-* "Takrimas" - A technologically advance world of future with No war rules & technologically advance NFTs oriented world.
-* "No Good" - A world where there is no peace just war P2P or P2T anything is possible with unique mastered weapon driven NFTs.
+We have created a 3D project that is digitally stored on the blockchain. It makes it possible to tackle the decentralized nature of the blockchain with millions of copies of private stuff. However, the blockchain is more resilient than other data centers and servers, so a copy of the NFT is always somewhere.
 
-### Universe Lore & Art
-
-Meta Gold Coin is aiming for an universe where every world has it own role in the universe with not exchangable NFT art world to world. Richly developed, NFTs filled world-building and a distinctive visual style combining fantasy with the player's avatars derived from the world. That is the one that set apart from other Metaverse project.
+The combination of the metaverse and blockchain provides essential savings and new sources of revenue. This brings irreplaceable tokens as well as certification and ownership certificates for digital art and collectibles. However, they are also based on smart contracts that allow creators to collect royalties from future use of avatars, art, and 3D models. With the launch of the MGC Token, we will begin the full settlement of the ecosystem. It also brings a new metaverse-centric economy.

@@ -4,26 +4,40 @@ description: More things to come in the future releases of our Roadmap, Stay Tun
 
 # Roadmap
 
-#### Q4 2021
+**Q1 2022-**
 
-Set up of development team Set up of sourcing team Infrastructure/security implementation
+&#x20;
 
-#### Q1 2022
+Launch MGC
 
-Private ICO round & Public ICO Road
+Blockchain Meetups
 
-#### Q2 2022
+Expanding Team
 
-Developement of Alpha Version
+Expanding Global Awareness
 
-#### Q3 2022
+&#x20;
 
-Developement of NFT Market Place
+**Q2 2022-**
 
-#### Q4 2022
+&#x20;
 
-Build the Universe of worlds and allow gamification of NFT leasing
+Token/Staking
 
-#### Q1 2023
+ICO
 
-Launch DAO & Voting Mechanism to VU's Economics
+Exchange Development
+
+Game, NFT & Metaverse Development
+
+Utilities of Token
+
+Defi (Decentralised Finance)
+
+&#x20;
+
+**Q3 2022-**
+
+&#x20;
+
+Soon, we will publish a 10+ year road map to scale to 100 Million projects.

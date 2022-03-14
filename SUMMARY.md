@@ -2,25 +2,29 @@
 
 * [Meta Gold Coin](README.md)
 
-## GAMEPLAY
+## MGCverse
 
-* [VU (Virtual Universe)](gameplay/vu-virtual-universe.md)
-* [Play 2 Earn](gameplay/play-2-earn.md)
-* [Non-Fungible Tokens](gameplay/non-fungible-tokens.md)
+* [Content](mgcverse/content.md)
+* [Token](mgcverse/token.md)
+* [NFT platform](mgcverse/nft-platform.md)
+
+***
+
+* [Economy](economy.md)
 
 ## Inspiration & Team
 
-* [Inspiration](inspiration-and-team/inspiration.md)
 * [Team](inspiration-and-team/team.md)
 
 ***
 
 * [Roadmap](roadmap.md)
+* [Conclusion](conclusion.md)
 * [ICO](ico.md)
 
 ## Legals
 
 * [Privacy Policy](legals/privacy-policy.md)
-* [Tokonomics](legals/tokonomics.md)
+* [Tokenization](legals/tokenization.md)
 * [Terms & Conditions](legals/terms-and-conditions.md)
 * [Consent](legals/consent.md)
