@@ -3,7 +3,7 @@ description: >-
   This is & will be the official document of Meta Gold Coin Virtual Universe. It
   has Information of the $MGC token's driving factors.Meta Gold Coin Virtual
   Universe's economy.
-cover: https://metagoldcoin.io/MGC_icon/logopng.png
+cover: .gitbook/assets/M.G.C FINAL.png
 coverY: 0
 ---
 
